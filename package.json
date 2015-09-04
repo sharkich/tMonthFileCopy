@@ -7,8 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "conf": {
-    "absPath": "~/Documents/projects/tMonthFileCopy/~data",
-    "files": []
+    "absPath": "/Users/temich/Documents/projects/tMonthFileCopy/~data",
+    "files": [
+      "1.dat", "2.dat"
+    ]
   },
   "repository": {
     "type": "git",
