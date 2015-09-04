@@ -1,0 +1,27 @@
+{
+  "name": "tmfc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "tmfc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "conf": {
+    "absPath": "~/Documents/projects/tMonthFileCopy/~data",
+    "files": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temich666/tMonthFileCopy.git"
+  },
+  "author": "temich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temich666/tMonthFileCopy/issues"
+  },
+  "homepage": "https://github.com/temich666/tMonthFileCopy#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "moment": "^2.10.6"
+  }
+}
